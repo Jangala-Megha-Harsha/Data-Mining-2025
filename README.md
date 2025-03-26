@@ -6,3 +6,4 @@
 4. [Lab_04(1)](https://github.com/Jangala-Megha-Harsha/Data-Mining-2025/blob/main/DM_Lab_04(1).ipynb)
 5. [Lab_04(2)](https://github.com/Jangala-Megha-Harsha/Data-Mining-2025/blob/main/DM_Lab_04(2).ipynb)
 6. [Lab_04(3)](https://github.com/Jangala-Megha-Harsha/Data-Mining-2025/blob/main/DM_Lab_04(3).ipynb)
+7. [Lab_05](https://github.com/Jangala-Megha-Harsha/Data-Mining-2025/blob/main/DM_Lab_05.ipynb)
